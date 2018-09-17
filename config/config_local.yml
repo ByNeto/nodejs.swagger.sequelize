@@ -1,0 +1,9 @@
+environment: local
+api:
+  port: 5000
+db:
+  username : "test"
+  password : "4f1070d6e58"
+  database : "test"
+  host : "localhost"
+  wipe: true

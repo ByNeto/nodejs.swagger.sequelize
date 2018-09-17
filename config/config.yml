@@ -1,0 +1,15 @@
+swagger:
+  info:
+    title: "Documentação da API"
+    description: "Esta é a API principal contém a maioria dos ativos."
+    termsOfService: "http://methodostecnologia.com.br"
+    contact:
+      email: "user@example.org"
+    version: "1.0"
+  basePath: "/"
+  schemes:
+    - "http"
+  consumes:
+    - "application/json"
+  produces:
+    - "application/json"
